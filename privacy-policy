@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Pause — Politique de confidentialité</title>
+  <style>
+    :root { --ink:#1A1714; --pine:#2F3D38; --muted:#6B645C; --paper:#EFE9E0; --cream:#F7F3EC; }
+    * { box-sizing: border-box; }
+    body { margin:0; background:var(--paper); color:var(--ink);
+      font: 16px/1.55 "Helvetica Neue", Helvetica, Arial, sans-serif; }
+    main { max-width: 40rem; margin: 0 auto; padding: 3rem 1.5rem 5rem; }
+    h1 { font-family: Georgia, "Times New Roman", serif; font-weight: 500; font-size: 2.4rem; letter-spacing: -0.03em; }
+    h2 { font-family: Georgia, serif; font-weight: 500; font-size: 1.4rem; margin-top: 2.5rem; color: var(--pine); }
+    h3 { font-size: 0.75rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); margin: 2.5rem 0 0.5rem; }
+    p, li { color: var(--ink); }
+    a { color: var(--pine); }
+    nav a { margin-right: 0.75rem; font-size: 0.85rem; }
+    .muted { color: var(--muted); font-size: 0.9rem; }
+    hr { border:0; border-top:1px solid #D9D1C5; margin: 3rem 0; }
+  </style>
+</head>
+<body>
+<main>
+  <p class="muted">Pause · Privacy policy · Politique de confidentialité</p>
+  <h1>Pause</h1>
+  <p>Dernière mise à jour : 15 septembre 2026</p>
+  <nav>
+    <a href="#fr">FR</a><a href="#en">EN</a><a href="#de">DE</a><a href="#it">IT</a><a href="#es">ES</a><a href="#pt">PT</a>
+  </nav>
+  <p class="muted">Contact : <a href="mailto:micha@nextro.me">micha@nextro.me</a></p>
+
+  <h3 id="fr">Français</h3>
+  <h2>Politique de confidentialité</h2>
+  <p>Pause est une application qui t’aide à attendre avant d’acheter. Elle est éditée par le développeur de Pause (ci-après « nous »).</p>
+  <p><strong>Nous ne créons pas de compte. Nous ne collectons pas tes données sur un serveur. Tout reste sur ton appareil.</strong></p>
+  <p>Ce que l’app peut stocker localement, uniquement sur ton téléphone :</p>
+  <ul>
+    <li>les envies que tu saisis (nom, prix, note, durée) ;</li>
+    <li>une photo, si tu l’ajoutes — l’appareil photo ne s’ouvre qu’avec ton accord explicite ;</li>
+    <li>tes choix (rappels, langue, achat « Pause illimitée ») ;</li>
+    <li>l’historique des envies gardées ou achetées.</li>
+  </ul>
+  <p>Ces informations ne sont ni envoyées, ni vendues, ni partagées. Elles ne quittent pas l’appareil, sauf si tu fais toi-même une sauvegarde du téléphone.</p>
+  <p><strong>Notifications.</strong> Si tu les actives, elles sont locales (rappels sur l’appareil). Nous n’envoyons pas de notifications depuis un serveur.</p>
+  <p><strong>Publicités (version gratuite).</strong> Une publicité peut s’afficher quand tu poses une envie. Si des publicités de réseaux tiers (ex. Google AdMob) sont activées plus tard, leurs propres règles s’appliqueront ; cette page sera alors mise à jour.</p>
+  <p><strong>Achats.</strong> L’achat unique à 1,99 € est traité par Google Play ou l’App Store. Nous ne recevons pas tes informations bancaires.</p>
+  <p><strong>Permissions Android / iOS.</strong> Caméra (optionnelle, pour une photo d’envie). Notifications (optionnelles). Photos / galerie (optionnelle). Aucune de ces permissions n’est obligatoire pour utiliser Pause.</p>
+  <p><strong>Enfants.</strong> Pause n’est pas destinée aux enfants de moins de 16 ans (décisions d’achat).</p>
+  <p><strong>Tes droits.</strong> Comme les données sont sur ton appareil, tu peux tout effacer dans Réglages → Effacer mes envies, ou en désinstallant l’app.</p>
+  <p>Questions : <a href="mailto:micha@nextro.me">micha@nextro.me</a>.</p>
+
+  <hr />
+  <h3 id="en">English</h3>
+  <h2>Privacy policy</h2>
+  <p>Pause helps you wait before you buy. It is published by the developer of Pause (“we”).</p>
+  <p><strong>We do not create accounts. We do not collect your data on a server. Everything stays on your device.</strong></p>
+  <p>What the app may store locally, on your phone only:</p>
+  <ul>
+    <li>cravings you enter (name, price, note, duration);</li>
+    <li>a photo, if you add one — the camera opens only with your explicit permission;</li>
+    <li>your preferences (reminders, language, Unlimited Pause purchase);</li>
+    <li>the history of cravings you kept or bought.</li>
+  </ul>
+  <p>This information is not sent, sold or shared. It does not leave the device unless you back up the phone yourself.</p>
+  <p><strong>Notifications.</strong> If you enable them, they are local (on-device reminders). We do not send notifications from a server.</p>
+  <p><strong>Ads (free version).</strong> An ad may appear when you add a craving. If third-party ad networks (e.g. Google AdMob) are enabled later, their policies will apply and this page will be updated.</p>
+  <p><strong>Purchases.</strong> The one-time €1.99 purchase is processed by Google Play or the App Store. We do not receive your payment details.</p>
+  <p><strong>Permissions.</strong> Camera (optional). Notifications (optional). Photos / gallery (optional). None are required to use Pause.</p>
+  <p><strong>Children.</strong> Pause is not intended for children under 16 (purchase decisions).</p>
+  <p><strong>Your rights.</strong> Because data lives on your device, you can erase it in Settings → Clear my cravings, or by uninstalling the app.</p>
+  <p>Questions: <a href="mailto:micha@nextro.me">micha@nextro.me</a>.</p>
+
+  <hr />
+  <h3 id="de">Deutsch</h3>
+  <h2>Datenschutzerklärung</h2>
+  <p>Pause hilft dir, vor dem Kauf zu warten. Herausgeber ist der Entwickler von Pause („wir“).</p>
+  <p><strong>Wir legen kein Konto an. Wir erheben keine Daten auf einem Server. Alles bleibt auf deinem Gerät.</strong></p>
+  <ul>
+    <li>Impulse, die du eingibst (Name, Preis, Notiz, Dauer);</li>
+    <li>ein Foto, wenn du eines hinzufügst — die Kamera öffnet sich nur mit deiner ausdrücklichen Erlaubnis;</li>
+    <li>deine Einstellungen (Erinnerungen, Sprache, Kauf « Unbegrenzte Pause »);</li>
+    <li>der Verlauf behaltener oder gekaufter Impulse.</li>
+  </ul>
+  <p>Diese Informationen werden nicht gesendet, verkauft oder geteilt.</p>
+  <p><strong>Benachrichtigungen</strong> sind lokal. <strong>Käufe</strong> laufen über Google Play / App Store. <strong>Werbung</strong> nur in der Gratisversion.</p>
+  <p>Pause ist nicht für Kinder unter 16 Jahren bestimmt. Du kannst alles unter Einstellungen löschen oder die App deinstallieren.</p>
+  <p>Fragen: <a href="mailto:micha@nextro.me">micha@nextro.me</a>.</p>
+
+  <hr />
+  <h3 id="it">Italiano</h3>
+  <h2>Informativa sulla privacy</h2>
+  <p>Pause ti aiuta ad aspettare prima di comprare. È pubblicata dallo sviluppatore di Pause (« noi »).</p>
+  <p><strong>Non creiamo account. Non raccogliamo i tuoi dati su un server. Tutto resta sul dispositivo.</strong></p>
+  <ul>
+    <li>le voglie che inserisci (nome, prezzo, nota, durata);</li>
+    <li>una foto, se la aggiungi — la fotocamera si apre solo con il tuo consenso esplicito;</li>
+    <li>le tue preferenze (promemoria, lingua, acquisto Pause illimitata);</li>
+    <li>la cronologia delle voglie tenute o comprate.</li>
+  </ul>
+  <p>Queste informazioni non vengono inviate, vendute né condivise. Le notifiche sono locali. L’acquisto a 1,99 € è gestito da Google Play o App Store. Le pubblicità riguardano solo la versione gratuita.</p>
+  <p>Pause non è destinata ai minori di 16 anni. Puoi cancellare tutto in Impostazioni o disinstallando l’app.</p>
+  <p>Domande: <a href="mailto:micha@nextro.me">micha@nextro.me</a>.</p>
+
+  <hr />
+  <h3 id="es">Español</h3>
+  <h2>Política de privacidad</h2>
+  <p>Pause te ayuda a esperar antes de comprar. La publica el desarrollador de Pause (« nosotros »).</p>
+  <p><strong>No creamos cuentas. No recogemos tus datos en un servidor. Todo se queda en el aparato.</strong></p>
+  <ul>
+    <li>los antojos que escribes (nombre, precio, nota, duración);</li>
+    <li>una foto, si la añades — la cámara solo se abre con tu permiso explícito;</li>
+    <li>tus preferencias (recordatorios, idioma, compra Pause ilimitada);</li>
+    <li>el historial de antojos guardados o comprados.</li>
+  </ul>
+  <p>Esta información no se envía, vende ni comparte. Las notificaciones son locales. La compra de 1,99 € la tramitan Google Play o App Store. Los anuncios son solo de la versión gratis.</p>
+  <p>Pause no está dirigida a menores de 16 años. Puedes borrar todo en Ajustes o desinstalando la app.</p>
+  <p>Preguntas: <a href="mailto:micha@nextro.me">micha@nextro.me</a>.</p>
+
+  <hr />
+  <h3 id="pt">Português</h3>
+  <h2>Política de privacidade</h2>
+  <p>A Pause ajuda-te a esperar antes de comprar. É publicada pelo programador da Pause (« nós »).</p>
+  <p><strong>Não criamos contas. Não recolhemos os teus dados num servidor. Tudo fica no aparelho.</strong></p>
+  <ul>
+    <li>as vontades que escreves (nome, preço, nota, duração);</li>
+    <li>uma foto, se a adicionares — a câmara só abre com o teu acordo explícito;</li>
+    <li>as tuas preferências (lembretes, idioma, compra Pause ilimitada);</li>
+    <li>o histórico das vontades guardadas ou compradas.</li>
+  </ul>
+  <p>Esta informação não é enviada, vendida nem partilhada. As notificações são locais. A compra de 1,99 € é tratada pela Google Play ou App Store. Os anúncios são só da versão gratuita.</p>
+  <p>A Pause não se destina a menores de 16 anos. Podes apagar tudo em Definições ou desinstalar a app.</p>
+  <p>Perguntas: <a href="mailto:micha@nextro.me">micha@nextro.me</a>.</p>
+</main>
+</body>
+</html>
